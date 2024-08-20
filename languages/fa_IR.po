@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Theme Structure\n"
+"POT-Creation-Date: 2024-08-20 19:53+0330\n"
+"PO-Revision-Date: 2024-08-20 19:53+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Theme Name of the plugin/theme
+#: functions.php:16 functions.php:17
+msgid "WordPress Theme Structure"
+msgstr "ساختار قالب وردپرس"
+
+#: functions.php:33
+msgid "Welcome to the wordpress theme structure settings page!"
+msgstr "به صفحه تنظیمات ساختار تم وردپرس خوش آمدید!"
+
+#: functions.php:34
+msgid "This page is designed for template management and settings."
+msgstr "این صفحه برای مدیریت و تنظیمات قالب طراحی شده است."
+
+#. Theme URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://weblan3er.com/"
+msgstr "https://weblan3er.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Wordpress theme structure is a comprehensive and organized kit for "
+"developing WordPress themes. This framework helps you build templates with "
+"modern, scalable and maintainable features. The proposed framework includes "
+"all the basic and advanced components needed to create a professional "
+"template that allows developers to develop template projects quickly and "
+"regularly."
+msgstr ""
+"ساختار قالب وردپرس یک کیت جامع و سازماندهی شده برای توسعه تم های وردپرس "
+"است. این چارچوب به شما کمک می کند تا قالب هایی با ویژگی های مدرن، مقیاس "
+"پذیر و قابل نگهداری بسازید. چارچوب پیشنهادی شامل تمام اجزای اولیه و پیشرفته "
+"مورد نیاز برای ایجاد یک قالب حرفه ای است که به توسعه دهندگان اجازه می دهد "
+"پروژه های قالب را به سرعت و به طور منظم توسعه دهند."
+
+#. Author of the plugin/theme
+msgid "Mahdi Mashkuri"
+msgstr "مهدی مشکوری"
